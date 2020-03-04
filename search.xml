@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>page</title>
-    <url>/2020/03/03/page/</url>
-    <content><![CDATA[]]></content>
+    <title>第一篇博客</title>
+    <url>/2020/03/04/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>这是我在hexo上的第一篇博客！</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>第一篇</tag>
+        <tag>记录</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
